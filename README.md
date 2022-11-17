@@ -43,9 +43,12 @@ Click the Play button.
 Your Pepper should be standing in front of the ball at the center of the field.
 
 ## Demo
-![1.jpg](images/1.png)
-![2.jpg](images/2.png)
+![1.jpg](images/1.jpg)
+
+![2.jpg](images/2.jpg)
+
 ![3.jpg](images/2.png)
+
 ![4.jpg](images/2.png)
 
 ## Reference

@@ -47,9 +47,9 @@ Your Pepper should be standing in front of the ball at the center of the field.
 
 ![2.jpeg](images/2.jpeg)
 
-![3.PNG](images/2.PNG)
+![3.png](images/3.png)
 
-![4.jpg](images/2.jpg)
+![4.jpg](images/4.jpg)
 
 ## Reference
 1. http://wiki.ros.org/ROS/Tutorials
